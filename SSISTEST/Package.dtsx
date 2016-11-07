@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="10/20/2016 12:57:09 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="SENG-SURFACE-PR"
+  DTS:CreatorName="SENG-SURFACE-PR\chana"
+  DTS:DTSID="{197EAD8C-3E0E-486F-ABCC-3F47892E695F}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="13.0.2150.2"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{41EBA794-F35A-4EFD-AF4A-580A313DD622}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
